@@ -1,0 +1,192 @@
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/08/20 14:41:32] DB Copy: wp_comments as wpstg0_comments from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_options as wpstg0_options from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_posts as wpstg0_posts from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_terms as wpstg0_terms from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_users as wpstg0_users from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/08/20 14:41:32] DB Copy: wp_comments as wpstg0_comments from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/08/20 14:41:32] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_options as wpstg0_options from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_posts as wpstg0_posts from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_terms as wpstg0_terms from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 20000 records
+[INFO]-[2018/08/20 14:41:33] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/08/20 14:41:33] DB Copy: wp_users as wpstg0_users from 0 to 20000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/08/20 14:41:35] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/08/20 14:41:37] Scanning / for files
+[INFO]-[2018/08/20 14:41:37] Scanning / for files
+[INFO]-[2018/08/20 14:41:38] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/08/20 14:41:38] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/08/20 14:41:40] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/08/20 14:41:40] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/08/20 14:41:41] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/08/20 14:41:41] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/08/20 14:41:43] Copying files...
+[INFO]-[2018/08/20 14:41:43] Total 50 files processed
+[INFO]-[2018/08/20 14:41:43] Total 100 files processed
+[INFO]-[2018/08/20 14:41:44] Total 150 files processed
+[INFO]-[2018/08/20 14:41:44] Total 200 files processed
+[INFO]-[2018/08/20 14:41:45] Total 250 files processed
+[INFO]-[2018/08/20 14:41:45] Total 300 files processed
+[INFO]-[2018/08/20 14:41:46] Total 350 files processed
+[INFO]-[2018/08/20 14:41:46] Total 400 files processed
+[INFO]-[2018/08/20 14:41:47] Total 450 files processed
+[INFO]-[2018/08/20 14:41:47] Total 500 files processed
+[INFO]-[2018/08/20 14:41:48] Total 550 files processed
+[INFO]-[2018/08/20 14:41:48] Total 600 files processed
+[INFO]-[2018/08/20 14:41:48] Total 650 files processed
+[INFO]-[2018/08/20 14:41:49] Total 700 files processed
+[INFO]-[2018/08/20 14:41:49] Total 750 files processed
+[INFO]-[2018/08/20 14:41:49] Total 800 files processed
+[INFO]-[2018/08/20 14:41:50] Total 850 files processed
+[INFO]-[2018/08/20 14:41:50] Total 900 files processed
+[INFO]-[2018/08/20 14:41:50] Total 950 files processed
+[INFO]-[2018/08/20 14:41:51] Total 1000 files processed
+[INFO]-[2018/08/20 14:41:51] Total 1050 files processed
+[INFO]-[2018/08/20 14:41:52] Total 1100 files processed
+[INFO]-[2018/08/20 14:41:53] Total 1150 files processed
+[INFO]-[2018/08/20 14:41:54] Total 1200 files processed
+[INFO]-[2018/08/20 14:41:54] Total 1250 files processed
+[INFO]-[2018/08/20 14:41:55] Total 1300 files processed
+[INFO]-[2018/08/20 14:41:43] Copying files...
+[INFO]-[2018/08/20 14:41:43] Total 50 files processed
+[INFO]-[2018/08/20 14:41:43] Total 100 files processed
+[INFO]-[2018/08/20 14:41:44] Total 150 files processed
+[INFO]-[2018/08/20 14:41:44] Total 200 files processed
+[INFO]-[2018/08/20 14:41:45] Total 250 files processed
+[INFO]-[2018/08/20 14:41:45] Total 300 files processed
+[INFO]-[2018/08/20 14:41:46] Total 350 files processed
+[INFO]-[2018/08/20 14:41:46] Total 400 files processed
+[INFO]-[2018/08/20 14:41:47] Total 450 files processed
+[INFO]-[2018/08/20 14:41:47] Total 500 files processed
+[INFO]-[2018/08/20 14:41:48] Total 550 files processed
+[INFO]-[2018/08/20 14:41:48] Total 600 files processed
+[INFO]-[2018/08/20 14:41:48] Total 650 files processed
+[INFO]-[2018/08/20 14:41:49] Total 700 files processed
+[INFO]-[2018/08/20 14:41:49] Total 750 files processed
+[INFO]-[2018/08/20 14:41:49] Total 800 files processed
+[INFO]-[2018/08/20 14:41:50] Total 850 files processed
+[INFO]-[2018/08/20 14:41:50] Total 900 files processed
+[INFO]-[2018/08/20 14:41:50] Total 950 files processed
+[INFO]-[2018/08/20 14:41:51] Total 1000 files processed
+[INFO]-[2018/08/20 14:41:51] Total 1050 files processed
+[INFO]-[2018/08/20 14:41:52] Total 1100 files processed
+[INFO]-[2018/08/20 14:41:53] Total 1150 files processed
+[INFO]-[2018/08/20 14:41:54] Total 1200 files processed
+[INFO]-[2018/08/20 14:41:54] Total 1250 files processed
+[INFO]-[2018/08/20 14:41:55] Total 1300 files processed
+[]-[] 
+[INFO]-[2018/08/20 14:41:57] Total 1350 files processed
+[INFO]-[2018/08/20 14:41:57] Total 1400 files processed
+[INFO]-[2018/08/20 14:41:58] Total 1450 files processed
+[INFO]-[2018/08/20 14:41:58] Total 1500 files processed
+[INFO]-[2018/08/20 14:41:59] Copying files finished
+[]-[] 
+[INFO]-[2018/08/20 14:41:57] Total 1350 files processed
+[INFO]-[2018/08/20 14:41:57] Total 1400 files processed
+[INFO]-[2018/08/20 14:41:58] Total 1450 files processed
+[INFO]-[2018/08/20 14:41:58] Total 1500 files processed
+[INFO]-[2018/08/20 14:41:59] Copying files finished
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step0: Skip it
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step1: Updating siteurl and homeurl to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step5: Updating table_prefix in C:\xampp\htdocs\203-accelerate/accelerate-copy/wp-config.php to wpstg0_
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/08/20 14:41:59] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/08/20 14:41:59] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/08/20 14:41:59] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step0: Skip it
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step1: Updating siteurl and homeurl to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step5: Updating table_prefix in C:\xampp\htdocs\203-accelerate/accelerate-copy/wp-config.php to wpstg0_
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/08/20 14:41:59] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/08/20 14:41:59] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost/203-accelerate/accelerate-copy
+[INFO]-[2018/08/20 14:41:59] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/08/20 14:41:59] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/08/20 14:42:00] Preparing Data Step12: Updating db prefix in wpstg0_options. Error: 
+[INFO]-[2018/08/20 14:42:00] Updating db option_names in wpstg0_options. Error: 
+[INFO]-[2018/08/20 14:42:00] Preparing Data Step12: Updating db prefix in wpstg0_options. Error: 
+[INFO]-[2018/08/20 14:42:00] Updating db option_names in wpstg0_options. Error: 
+[INFO]-[2018/08/20 14:42:01] Finish: Deleting clone job's cache files...
+[INFO]-[2018/08/20 14:42:01] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/08/20 14:42:01] Finish: Verifying existing clones...
+[INFO]-[2018/08/20 14:42:01] Finish: accelerate-copy's clone job's data is not in database, generating data
+[INFO]-[2018/08/20 14:42:01] Finish: Deleting clone job's cache files...
+[INFO]-[2018/08/20 14:42:01] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/08/20 14:42:01] Finish: Verifying existing clones...
+[INFO]-[2018/08/20 14:42:01] Finish: accelerate-copy's clone job's data is not in database, generating data
