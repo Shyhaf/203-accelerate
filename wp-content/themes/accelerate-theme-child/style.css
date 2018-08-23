@@ -10,6 +10,7 @@ Tags:     	light, dark, two-columns, right-sidebar, responsive-layout, accessibi
 Text Domain:  accelerate-theme-child
 */
 
+/*homepage*/
 .home-page {
     background: url("img/taxi-photo.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
 }
@@ -19,7 +20,7 @@ Text Domain:  accelerate-theme-child
   }
 
 
-  .button {
+.button {
       background: none repeat scroll 0 0 #45ac9d;
   }
 
@@ -27,6 +28,8 @@ Text Domain:  accelerate-theme-child
      float: left;
      margin: 0 10px;
  } 
+
+/*blog section*/ 
 .blog-post {
 	width: 50%;
 	float: left;
@@ -85,7 +88,7 @@ h4{
 }
 
 h6{
-    font-size: 14px;
+    font-size: 13px;
     line-height: 0.5;
     font-weight: normal;
     color: #ababab;
@@ -94,8 +97,51 @@ h6{
 .read-more-link{
     color: #45ac9d;
 }
-span{
-    font-weight: normal;
-    color: #3b3b3b;
+
+section.featured-work{  
+    text-align: center;
 }
 
+section.featured-work h4{
+    color:#3b3b3b;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+span{
+    font-weight: bold;
+    color:#45ac9d;
+}
+
+ul.homepage-featured-work{
+    list-style: none;
+    margin-right: 100px;
+}
+
+ul.homepage-featured-work li{
+    display: inline-block;
+    padding-right: 50px;
+    float:right;
+}
+
+/*menu*/
+
+#menu-social-media-nav{
+    list-style: none;
+}
+
+#menu-social-media-nav li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+
+}
+
+.menu-item i._mi{
+    line-height:1;
+    width:10px;
+    height:10px;
+    border-radius: 80%;
+    color: black;
+}
